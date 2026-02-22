@@ -1,0 +1,17 @@
+name: kandz
+description: A candy crush-like game.
+version: 1.0.0+1
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  google_fonts: ^3.0.1
+  flutter_riverpod: ^2.0.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^2.0.0
+flutter:
+  uses-material-design: true
